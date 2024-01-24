@@ -1,4 +1,5 @@
-ISHIMWE GAD | SOFTWARE DEVELOPER
+ISHIMWE GAD 
+SOFTWARE DEVELOPER
 
 | DAYS  | BREAKFAST |
 | ------------- | ------------- |
