@@ -1,5 +1,5 @@
 # ISHIMWE GAD 
-###RRGGBB SOFTWARE DEVELOPER
+## SOFTWARE DEVELOPER
 
 | DAYS  | BREAKFAST |
 | ------------- | ------------- |
