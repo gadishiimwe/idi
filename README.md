@@ -2,7 +2,7 @@
 ## SOFTWARE DEVELOPER
 
 | DAYS  | BREAKFAST | BREAKFAST |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | MONDAY  | BREAD (BLUEBAND)  | Milk Tea |
 | TUESDAY  | BREAD (BLUEBAND) + EGG | Poridge |
 | WEDNESDAY  | OMOLETTE  | Milk Tea |
