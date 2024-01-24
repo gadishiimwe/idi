@@ -1,7 +1,7 @@
 # ISHIMWE GAD 
 ## SOFTWARE DEVELOPER
 
-| DAYS  | BREAKFAST |
+| DAYS  | BREAKFAST | BREAKFAST |
 | ------------- | ------------- |
 | MONDAY  | BREAD (BLUEBAND)  | Milk Tea |
 | TUESDAY  | BREAD (BLUEBAND) + EGG | Poridge |
