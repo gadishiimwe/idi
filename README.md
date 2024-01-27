@@ -9,7 +9,6 @@
 | THURSDAY  | BREAD (BLUEBAND) + EGG | Poridge |
 | FRIDAY  | BREAD (BLUEBAND)/ AMANDAZI + BANANA  | Milk Tea |
 
-## NEEDS 
 | Needs  | Cost | 
 | ------------- | ------------- |
 | **AMAVUTA**  | *2K*  |
