@@ -10,7 +10,7 @@
 | FRIDAY  | BREAD (BLUEBAND)/ AMANDAZI + BANANA  | Milk Tea |
 
 | NEEDS |
-| ------------- | ------------- |
-| AMAVUTA | 2K |
-| NIVEA | 3k |
-| TOTAL| 5K |
+| ------------- | ------------- | ------------- |
+| AMAVUTA | 2K | ishimwe |
+| NIVEA | 3k | gad |
+| TOTAL| 5K | it |
