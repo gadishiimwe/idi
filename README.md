@@ -9,8 +9,12 @@
 | THURSDAY  | BREAD (BLUEBAND) + EGG | Poridge |
 | FRIDAY  | BREAD (BLUEBAND)/ AMANDAZI + BANANA  | Milk Tea |
 
-| NEEDS |
+## NEEDS 
+| WEEK  | NEEDS | COST |
 | ------------- | ------------- | ------------- |
-| AMAVUTA | 2K | ishimwe |
-| NIVEA | 3k | gad |
-| TOTAL| 5K | it |
+| WEEK 1  | AMAVUTA  | 2K |
+          | GOING TO CHURCH TICKET | 3K |
+| WEEK 2  |  |  |
+| WEEK 3 |   |  |
+| WEEK 4  |  |  |
+| WEEK 5  |   |  |
