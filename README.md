@@ -11,7 +11,6 @@
 
 ## NEEDS 
 | NEEDS | COST |
-| ------- | ------- |
 | AMAVUTA  | 2K |
 | GOING TO CHURCH TICKET | 3K |
 | TOTAL| 5K |
