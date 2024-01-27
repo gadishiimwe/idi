@@ -9,7 +9,7 @@
 | THURSDAY  | BREAD (BLUEBAND) + EGG | Poridge |
 | FRIDAY  | BREAD (BLUEBAND)/ AMANDAZI + BANANA  | Milk Tea |
 
-##NEEDS
+## NEEDS
 | AMAVUTA | 2K |
 | NIVEA | 3k |
 | TOTAL| 5K |
