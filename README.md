@@ -10,11 +10,9 @@
 | FRIDAY  | BREAD (BLUEBAND)/ AMANDAZI + BANANA  | Milk Tea |
 
 ## NEEDS 
-| WEEK  | NEEDS | COST |
-| ------------- | ------------- | ------------- |
-| WEEK 1  | AMAVUTA  | 2K |
-          | GOING TO CHURCH TICKET | 3K |
-| WEEK 2  |  |  |
-| WEEK 3 |   |  |
-| WEEK 4  |  |  |
-| WEEK 5  |   |  |
+| LIST | COST |
+| ------------- | ------------- |
+| AMAVUTA  | 2K |
+| GOING TO CHURCH TICKET | 3K |
+| TOTAL| 5K |
+
