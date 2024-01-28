@@ -1,4 +1,4 @@
-# IT ISHIMWE GAD 
+# BREAKFAST 
 
 
 | DAYS  | BREAKFAST | BREAKFAST |
@@ -9,8 +9,13 @@
 | THURSDAY  | BREAD (BLUEBAND) + EGG | Poridge |
 | FRIDAY  | BREAD (BLUEBAND)/ AMANDAZI + BANANA  | Milk Tea |
 
+
+
+# NEEDS
+
 | Needs  | Cost | 
 | ------------- | ------------- |
-| **AMAVUTA**  | *2K*  |
-| **CHURCH TICKET**  | *3K*  |
-| **TOTAL**  | *5K*  |
+| **AMAVUTA**  | *2.5K*  |
+| **SOAP**  | *1.2K*  |
+| **COLGATE**  | *1.2K*  |
+| **TOTAL**  | *4.9K*  |
