@@ -1,5 +1,6 @@
 # Thanks for Supporting me before, even tho you're not my brother now...
-
+## I won't forget harsh words you told me like : Wa mbwa we, Idiot, Ikigoryi kidafite mu mutwe hazima, Ibandi
+## I won't also forget umbwira ngo ndi : IMFURA
 ### I don't need you anyway in my life
 ### I have GOD and I myself
 ### I'll Survive...
