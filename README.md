@@ -1,4 +1,6 @@
-# I don't need you anyways in my life
+Thanks for Supporting me before even tho you're not my brother now...
+
+### I don't need you anyway in my life
 ### I have GOD and I myself
 ### I'll Survive...
 
