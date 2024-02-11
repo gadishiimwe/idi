@@ -4,9 +4,9 @@
 ## I won't forget harsh words you told me like : Wa mbwa we, Idiot, Ikigoryi kidafite mu mutwe hazima, Ibandi
 ## I won't also forget umbwira ngo ndi : IMFURA
 
-*I don't need you anyway in my life*
-*I have GOD and I myself*
-*I'll Survive...*
+**I don't need you anyway in my life**
+**I have GOD and I myself**
+**I'll Survive...**
 
 # 1 John 4:20
 **If anyone says, “I love God,” and hates his brother, he is a liar; for he who does not love his brother whom he has seen cannot love God whom he has not seen.**
