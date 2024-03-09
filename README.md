@@ -14,3 +14,6 @@
 **Blessed are you when people hate you and when they exclude you and revile you and spurn your name as evil, on account of the Son of Man!**
 
 # VACATION ROUTINE
+**Absorb Morning Sun**
+**Sleep 8hrs+ daily**
+**Stretch Exercises ..**
